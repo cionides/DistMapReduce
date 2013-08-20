@@ -1,0 +1,43 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/src/main/scala/Server.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/MapActor$$anonfun$receive$2.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Book$.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Server.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Server$.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/MapData$.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/MasterActor.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Words$.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/ReduceData.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Server$delayedInit$body.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Word.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Words.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Result.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Result$.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/MapData.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Done.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/MapActor.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Book.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/ReduceData$.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/MasterActor$$anonfun$receive$1.class, /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes/Word$.class)[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/src/main/scala/Server.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/src/main/scala/Server.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/src/main/scala/Server.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 26193229, interfacing (CompilerInterface) with Scala compiler version 2.10.0[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsfd.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/laf.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/sunrsasign.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar:/Users/cionides/.sbt/boot/scala-2.10.0/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/target/scala-2.10/classes:/Users/cionides/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/jars/akka-actor_2.10-2.2-M1.jar:/Users/cionides/.ivy2/cache/com.typesafe/config/bundles/config-1.0.0.jar:/Users/cionides/.ivy2/cache/com.typesafe.akka/akka-remote_2.10/bundles/akka-remote_2.10-2.2-M1.jar:/Users/cionides/.ivy2/cache/io.netty/netty/bundles/netty-3.6.1.Final.jar:/Users/cionides/.ivy2/cache/com.google.protobuf/protobuf-java/jars/protobuf-java-2.4.1.jar:/Users/cionides/.ivy2/cache/org.uncommons.maths/uncommons-maths/jars/uncommons-maths-1.2.2a.jar[0m
+[0m[[31merror[0m] [0m/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/src/main/scala/Server.scala:170: illegal start of declaration (possible cause: missing `=' in front of current method body)[0m
+[0m[[31merror[0m] [0m      	if (reduceMap.contains(word)) {[0m
+[0m[[31merror[0m] [0m      	^[0m
+[0m[[31merror[0m] [0m/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/src/main/scala/Server.scala:177: illegal start of declaration (possible cause: missing `=' in front of current method body)[0m
+[0m[[31merror[0m] [0m		return reduceMap[0m
+[0m[[31merror[0m] [0m		^[0m
+[0m[[31merror[0m] [0m/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/src/main/scala/Server.scala:207: '=>' expected but '(' found.[0m
+[0m[[31merror[0m] [0m	case fun1: Tuple2(MapData, ((ArrayList[Word]) => (ReduceData))) => {[0m
+[0m[[31merror[0m] [0m	                 ^[0m
+[0m[[31merror[0m] [0m/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/src/main/scala/Server.scala:210: '=>' expected but '(' found.[0m
+[0m[[31merror[0m] [0m	case fun2: Tuple2(MapData, ((ArrayList[Word]) => (ReduceData))) => {[0m
+[0m[[31merror[0m] [0m	                 ^[0m
+[0m[[31merror[0m] [0m/Users/cionides/Desktop/CSC536/Project/MapReduceFramework/Servers/src/main/scala/Server.scala:213: '=>' expected but '(' found.[0m
+[0m[[31merror[0m] [0m	case fun3: Tuple2(MapData, ((ArrayList[Word]) => (ReduceData))) => {[0m
+[0m[[31merror[0m] [0m	                 ^[0m
+[0m[[31merror[0m] [0m5 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m
