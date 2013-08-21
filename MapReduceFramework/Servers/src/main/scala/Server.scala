@@ -27,7 +27,7 @@ case class ReduceData(val reduceDataMap: java.util.HashMap[String, Integer])
 case class Book(title: String, url: String)
 class Done
 
-
+/**This class is for the main Actor and will generate/distribute additional actors using a round-robin router**/
 class MasterActor extends Actor{
   
   val roundRobinRouter =context.actorOf(Props[MapActor].withRouter(RoundRobinRouter(5)), "router")
