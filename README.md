@@ -1,4 +1,9 @@
-DistMapReduce
-=============
+Distributed Map-Reduce Framework
+================================
 
-MapReduce framework written in Scala using Akka actors
+##Objective
+##Directory Structure
+##Compile and Run Instructions
+##Process
+##Issues/TODO
+
